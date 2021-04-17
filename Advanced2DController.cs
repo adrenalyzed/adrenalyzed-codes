@@ -22,7 +22,6 @@ public int howManyJumps = 1;
 private int howManyJumpsR;
 private float forceR;
 
-
 [Header("JUMPING")]
 public LayerMask whatIsGround;
 public float jumpForce = 600f;
